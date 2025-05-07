@@ -54,3 +54,16 @@ footer {
   color: #4a4343;
   font-size: 14px;
 }
+
+blockquote {
+  font-style: italic;
+  margin: 1em 0;
+  padding-left: 1em;
+  border-left: 3px solid #ccc;
+}
+
+.signature {
+  text-align: right;
+  font-style: italic;
+  margin-top: 1em;
+}
