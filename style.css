@@ -54,3 +54,9 @@ footer {
   color: #4a4343;
   font-size: 14px;
 }
+
+.signature {
+  text-align: right;
+  font-style: italic;
+  margin-top: 1em;
+}
